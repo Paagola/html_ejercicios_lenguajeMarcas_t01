@@ -36,4 +36,14 @@ estructura del documento web, corrígelos.
 
 5. En la catorceava línea no puedes cerrar el `<body>` y luego abrir otro parrafo con `<p>` + `</p>`.
 
+6. En la última línea no se ha cerrado el `<html>` correctamente, se debe cerrar con un `/` como en este ejemplo: `</html>`
+
 ---
+
+## EJERCICIO 2
+
+Crea una página webcon el siguiente texto formateado talcual puedes ver en la imagen de la derecha.
+
+En este ejercicio no debes usar CSS.
+
+![alt text](src/ej2.png)
