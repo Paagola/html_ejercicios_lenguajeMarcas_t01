@@ -46,4 +46,4 @@ Crea una página webcon el siguiente texto formateado talcual puedes ver en la i
 
 En este ejercicio no debes usar CSS.
 
-![alt text](src/ej2.png)
+![alt text](img/ej2.png)
