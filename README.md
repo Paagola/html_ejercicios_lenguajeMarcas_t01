@@ -46,7 +46,9 @@ Crea una página webcon el siguiente texto formateado talcual puedes ver en la i
 
 En este ejercicio no debes usar CSS.
 
-![alt text](img/ej2.png)
+<p align="center">
+  <img src="img/ej2.png" width="500" alt="Imagen ejercicio 2">
+</p>
 
 Este es mi código del html hecho  -> [Ejercicio2.html](src/ejercicio2.html)
 
@@ -78,6 +80,8 @@ El documento debe quedar como el de la imagen de abajo.
 
 En este ejercicio no debes usar CSS.
 
-![imagen ejercicio 3](img/ej3.png)
+<p align="center">
+  <img src="img/ej3.png" width="500" alt="Imagen ejercicio 3">
+</p>
 
 Este es mi código del html hecho  -> [Ejercicio3.html](src/ejercicio3.html)
