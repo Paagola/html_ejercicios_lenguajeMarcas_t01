@@ -47,3 +47,5 @@ Crea una página webcon el siguiente texto formateado talcual puedes ver en la i
 En este ejercicio no debes usar CSS.
 
 ![alt text](img/ej2.png)
+
+Este es mi código del html hecho  -> `[Ejercicio2.html](src/ejercicio2.html)`
